@@ -1,2 +1,3 @@
 Hi there,
 This is the first file.
+This is the second change that we want to track.
